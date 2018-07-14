@@ -1,2 +1,2 @@
-The Equilinox Mod Enabler allows easy installtion of the [Equilinox Mod Kit](https://github.com/EquilinoxModKit/EMK), a community project that aims to bring modding support to the video game Equilinox by ThinMatrix.<br>
+The Equilinox Mod Enabler allows easy installation of the [Equilinox Mod Kit](https://github.com/EquilinoxModKit/EMK), a community project that aims to bring modding support to the video game Equilinox by ThinMatrix.<br>
 Visit our website [equilinoxmodkit.github.io](https://equilinoxmodkit.github.io) for more information, join the [Discord server](https://discord.gg/UebMVvM) or consider supporting the project on [Patreon](https://patreon.com/equilinoxmodkit).
