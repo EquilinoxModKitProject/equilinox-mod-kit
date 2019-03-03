@@ -5,10 +5,12 @@ about: Create a report to help us improve this project
 ---
 
 **Description**
-What happened and what do you expect to happen?
+What happened and what did you expect to happen?
 
 **Code and Screenshots**
-Add code or screenshots to help us understand in which context the bug occured.
+Add code or screenshots to help us understand in which context the bug occurred.
 
-**Additional context**
-What version of Equilinox and the Equilinox Mod Kit did you use? What else could be important to solve the problem?
+**Context**
+- Version of Equilinox: x.x.x
+- Version of EMK/EMK: x.x.x
+- *Further helpful information about your development environment*

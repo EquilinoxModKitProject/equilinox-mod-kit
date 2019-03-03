@@ -9,7 +9,7 @@ modding support to Equilinox.
 
 If you simply want to add modding support to Equilinox and are not interested in creating mods the Equilinox Mod Kit is the wrong project for you. 
 Head over
- to the [Equilinox Mod Loader](https://github.com/EquilinoxModKitProject/Equilinox-Mod-Loader) project for detailed instructions on adding modding 
+ to the [Equilinox Mod Loader](https://github.com/EquilinoxModKitProject/Equilinox-Mod-Loader) repository for detailed instructions on adding modding 
  support and installing mods.
 
 - [Downloads](https://github.com/EquilinoxModKitProject/Equilinox-Mod-Kit/releases)
