@@ -1,12 +1,10 @@
-package equilinoxmodkit.util;
-
+package equilinoxmodkit.launcher;
 
 public enum OperatingSystem {
 	
-	
+	UNKNOWN,
 	WINDOWS,
 	LINUX,
-	MACOS
-	
+	MAC;
 	
 }
